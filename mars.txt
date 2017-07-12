@@ -3,3 +3,4 @@ this is the second line
 one two
 wednesday
 last
+This is my file now!
